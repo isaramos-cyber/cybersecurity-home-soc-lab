@@ -93,8 +93,17 @@ This setup allows safe simulation of attacks within an isolated environment.
 ---
 
 ## 📸 Screenshots
+Phase 1: Virtual Environment & Network Connectivity
+VirtualBox Inventory
+Showing Kali, Windows 10, and Ubuntu SIEM instances.
 
-*(To be added as the lab progresses)*
+Network Connectivity Test
+Successful ping from Kali Linux to the Windows Victim and Ubuntu SIEM.
+
+<img width="1712" height="1002" alt="image" src="https://github.com/user-attachments/assets/fe2c2c59-5c31-48d2-b28d-5ebbd8a2821a" />
+
+<img width="1702" height="1003" alt="image" src="https://github.com/user-attachments/assets/e5b4fe50-0d3e-47ac-af9f-780587f87aaf" />
+
 
 ---
 
