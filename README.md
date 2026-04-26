@@ -1,5 +1,5 @@
 # cybersecurity-home-soc-lab
-Built a virtual SOC lab using VirtualBox with Kali Linux, Windows, and Ubuntu to simulate real-world cyber attacks and analyze logs using Splunk SIEM.
+Engineered a virtualized Security Operations Center (SOC) environment to simulate enterprise-level data orchestration, log aggregation, and real-time threat detection using industry-standard tools.
 
 # 🛡️ Cybersecurity Home SOC Lab (Work in Progress)
 
@@ -9,7 +9,7 @@ Built a virtual SOC lab using VirtualBox with Kali Linux, Windows, and Ubuntu to
 
 ## 🧠 Objective
 
-To design and implement a virtual Security Operations Center (SOC) lab environment that simulates real-world cyber attack scenarios and defensive monitoring using SIEM tools.
+To design and implement a virtual Security Operations Center (SOC) lab environment that simulates real-time threat detection and defensive monitoring using SIEM tools.
 
 ---
 
